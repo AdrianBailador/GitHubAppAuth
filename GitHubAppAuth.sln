@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubAppAuth", "GitHubAppAuth.csproj", "{783CB05F-BEE6-BCC3-80F7-E38B4C44CC8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{783CB05F-BEE6-BCC3-80F7-E38B4C44CC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783CB05F-BEE6-BCC3-80F7-E38B4C44CC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783CB05F-BEE6-BCC3-80F7-E38B4C44CC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783CB05F-BEE6-BCC3-80F7-E38B4C44CC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47AE8396-A20D-43D4-BC6C-63AE42C281DD}
+	EndGlobalSection
+EndGlobal
